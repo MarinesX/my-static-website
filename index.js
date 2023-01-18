@@ -1,0 +1,8 @@
+
+function doGenerate() {
+    
+}
+
+function getPassword() {
+    
+}
